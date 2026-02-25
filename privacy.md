@@ -27,6 +27,7 @@ When using our AI-powered features, we may process:
 	•	Uploaded text or content you voluntarily provide
 
 This content is used solely to provide and improve the service.
+User content is only shared with third-party services after explicit user consent.
 
 c. Usage Data
 
@@ -51,12 +52,20 @@ We do not sell personal data.
 
 ⸻
 
-3. AI Processing
+3.  AI Processing and Data Sharing
 
-User-provided content may be processed by AI systems to generate responses or results.
-AI outputs are generated automatically and may not always be accurate.
+Syllas uses third-party AI services to provide AI-powered features such as chat responses, quizzes, image analysis, and study tools.
 
-Users are responsible for how they use AI-generated content.
+When you use these features, the following user-provided data may be sent to a third-party AI service for processing:
+• Messages and prompts
+• Uploaded images or files
+• Other content you voluntarily submit
+
+This data may include personal information if you choose to provide it.
+
+Before any data is sent to a third-party AI service, the app displays an AI Data Usage Notice and requires your explicit consent. If you do not agree, no data is sent and the AI feature will not be used.
+
+We currently use trusted third-party AI providers (such as OpenAI) that are required to protect user data and provide security measures equal to or greater than industry standards.
 
 ⸻
 
@@ -85,15 +94,16 @@ You have the right to:
 
 ⸻
 
-7. Third-Party Services
+7.  Third-Party Services
 
-Our services may rely on third-party tools such as:
-	•	Authentication providers
-	•	Cloud infrastructure
-	•	Analytics services
+Syllas relies on trusted third-party services to operate core features, including:
 
-These providers are only given access to information necessary to perform their services.
+• Firebase (authentication, database, and cloud infrastructure)
+• Third-party AI providers (such as OpenAI) for AI-powered features
+• Analytics and monitoring services
+• Subscription and payment providers
 
+These third parties only receive the data necessary to perform their functions and are contractually required to protect user information.
 ⸻
 
 8. Children’s Privacy
